@@ -69,4 +69,7 @@ Frontend project using HTML & CSS
   <a href="https://github.com/athxrvxaa">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
+  <a href="https://www.linkedin.com/in/atharva-raskar-384a031b1/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 </p>
