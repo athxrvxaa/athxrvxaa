@@ -13,9 +13,9 @@
 ## 🧠 About Me
 
 - 🎓 MSc Data Science student  
-- 🤖 Interested in **ML, DL, NLP & Recommendation Systems**
-- 🏎️ Love working with **sports & F1 datasets**
-- 📊 Turning data into real-world insights
+- 🤖 Interested in **Machine Learning, Deep Learning, NLP & Generative AI**
+- 🧩 Currently exploring **Transformers, LLMs & modern NLP architectures**
+- 📊 Passionate about learning **everything there is in Data Science**, from theory to real-world applications
 
 ---
 
