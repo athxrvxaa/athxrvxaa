@@ -1,3 +1,14 @@
+---
+
+## 🔥 LeetCode Streaks
+
+<p align="center">
+  <img src="https://leetcode-stats-six.vercel.app/api?username=athxrvxaa&theme=dark" />
+</p>
+
+
+
+
 <h1 align="center">Hi 👋, I'm Atharva Raskar</h1>
 
 <p align="center">
