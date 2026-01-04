@@ -55,7 +55,7 @@ Frontend project using HTML & CSS
 
 <p align="center">
   <a href="https://leetcode.com/u/athxrvxaa/">
-    <img src="https://leetcode-stats-six.vercel.app/api?username=athxrvxaa&theme=tokyonight" />
+    <img src="https://leetcard.jacoblin.cool/athxrvxaa?theme=dark&font=Fira%20Code&ext=activity" />
   </a>
 </p>
 
