@@ -54,27 +54,10 @@ Frontend project using HTML & CSS
 ## 🔥 LeetCode Streaks
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/athxrvxaa?theme=dark&font=Fira%20Code&border=0&radius=10&width=400" />
-</p>
-## 🔥 LeetCode Streaks
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/athxrvxaa?theme=dark&border=0&width=360" />
-</p>
-
-<p align="center">
-  <img src="GITHUB_STATS_URL" width="360"/>
-  <img src="LEETCODE_URL" width="360"/>
-</p>
-
-## 🔥 LeetCode
-
-<p align="center">
   <a href="https://leetcode.com/u/athxrvxaa/">
-    <img src="https://img.shields.io/badge/LeetCode-125%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://leetcode-stats-six.vercel.app/api?username=athxrvxaa&theme=tokyonight" />
   </a>
 </p>
-
 
 ---
 
