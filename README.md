@@ -54,9 +54,7 @@ Frontend project using HTML & CSS
 ## 🔥 LeetCode Streaks
 
 <p align="center">
-  <a href="https://leetcode.com/u/athxrvxaa/">
-    <img src="https://leetcard.jacoblin.cool/athxrvxaa?theme=dark&font=Fira%20Code&ext=activity" />
-  </a>
+  <img src="https://leetcard.jacoblin.cool/athxrvxaa?theme=dark&font=Fira%20Code&border=0&radius=10&width=400" />
 </p>
 
 ---
