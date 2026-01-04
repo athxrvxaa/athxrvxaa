@@ -1,14 +1,3 @@
----
-
-## 🔥 LeetCode Streaks
-
-<p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=athxrvxaa&theme=dark" />
-</p>
-
-
-
-
 <h1 align="center">Hi 👋, I'm Atharva Raskar</h1>
 
 <p align="center">
@@ -58,6 +47,16 @@ Frontend project using HTML & CSS
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=athxrvxaa&theme=tokyo-night" />
+</p>
+
+---
+
+## 🔥 LeetCode Streaks
+
+<p align="center">
+  <a href="https://leetcode.com/u/athxrvxaa/">
+    <img src="https://leetcode-stats-six.vercel.app/api?username=athxrvxaa&theme=tokyonight" />
+  </a>
 </p>
 
 ---
