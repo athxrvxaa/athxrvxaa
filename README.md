@@ -64,9 +64,6 @@ Frontend project using HTML & CSS
 ## 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/athxrvxaa">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
   <a href="https://www.linkedin.com/in/atharva-raskar-384a031b1/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
