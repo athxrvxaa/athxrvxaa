@@ -27,22 +27,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-🔹 **Movie Recommendation System**  
-Content-based filtering using Python & ML
-
-🔹 **F1 Podium Prediction**  
-Predicting race podiums using historical F1 data
-
-🔹 **Formula 1 Data Analysis**  
-Exploratory analysis & insights from F1 datasets
-
-🔹 **Netflix UI Clone**  
-Frontend project using HTML & CSS
-
----
-
 ## 📈 Contribution Activity
 
 <p align="center">
