@@ -6,12 +6,6 @@ Currently thinking about **photonic computing, transformer internals, and recomm
 
 ---
 
-## what I'm working on
-
-- **Photonic Attention Accelerators** — got a paper under review at IEEE Photonics Journal. Derived a formal photon budget for softmax in optical hardware. It's as niche as it sounds and I love it.
-- **H&M Retail Intelligence Pipeline** — 31M transactions, 8-phase ML pipeline, churn prediction, hybrid recommenders, demand forecasting. The full stack.
-
----
 
 ## the stack
 
