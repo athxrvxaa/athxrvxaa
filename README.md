@@ -1,54 +1,48 @@
-<h1 align="center">Hi 👋, I'm Atharva Raskar</h1>
+# Atharva Raskar
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=MSc+Data+Science+Student;Machine+Learning+%7C+Deep+Learning;NLP+%7C+Recommendation+Systems;Building+AI-powered+projects" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=athxrvxaa&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+MSc Data Science — Fergusson College, Pune  
+[atharvaraskar44@gmail.com](mailto:atharvaraskar44@gmail.com) · [LinkedIn](https://www.linkedin.com/in/atharva-raskar-384a031b1) · [GitHub](https://github.com/athxrvxaa)
 
 ---
 
-## 🧠 About Me
+## Research
 
-- 🎓 MSc Data Science student  
-- 🤖 Interested in **Machine Learning, Deep Learning, NLP & Generative AI**
-- 🧩 Currently exploring **Transformers, LLMs & modern NLP architectures**
-- 📊 Passionate about learning **everything there is in Data Science**, from theory to real-world applications
+**Softmax Degradation in Photonic Attention Accelerators: A Noise-Budget Analysis** · *Under Review, IEEE Photonics Journal*  
+Derived the first formally specified photon budget for photonic softmax hardware. Proved an architecture-agnostic KL divergence bound and showed ~100 photons/MAC is sufficient across all transformer architectures. Confirmed analytically and via Monte Carlo simulation on an NVIDIA A100.
 
 ---
 
-## 🛠 Skills & Tools
+## Projects
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,jupyter,pandas,numpy,sql,git,github,html,css" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=athxrvxaa&theme=tokyo-night" />
-</p>
+**H&M Personalized Fashion Recommendations — End-to-End Retail Intelligence Pipeline**  
+8-phase ML pipeline over 1.37M customers, 106K SKUs, and 31M transactions. Built RFM-based customer segmentation with KMeans, an XGBoost churn classifier (ROC-AUC 0.8477, F1 0.7846) with SHAP explainability, a hybrid ALS + TF-IDF recommender, Prophet demand forecasting, and an A/B reactivation simulation. Memory-efficient chunk-loading with Parquet throughout.
 
 ---
 
-## 🔥 LeetCode Streaks
+## Skills
 
-<p align="center">
-  <a href="https://leetcode.com/u/athxrvxaa/">
-    <img src="https://leetcard.jacoblin.cool/athxrvxaa?theme=dark&font=Fira%20Code&ext=activity" />
-  </a>
-</p>
+**Languages** — Python, SQL  
+**ML / DL** — Regression, Classification, Clustering, XGBoost, Neural Networks, Transformers, GNNs  
+**NLP & LLMs** — TF-IDF, Embeddings, RAG, Prompt Engineering  
+**Recommender Systems** — Collaborative Filtering, ALS, Ranking Models  
+**Libraries** — Pandas, NumPy, Scikit-learn, PyTorch, implicit, Prophet  
+**Tools** — Git, Docker, Streamlit, Ollama, HuggingFace, Parquet  
+**Cloud** — AWS, Snowflake
 
 ---
 
-## 🔗 Connect With Me
+## Certifications
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/atharva-raskar-384a031b1/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</p>
+- **SnowPro Associate: Platform** — Snowflake, Feb 2026  
+- **Intensive Certificate Course in German** — SPPU, Dec 2023
+
+---
+
+## Miscellaneous
+
+- 150+ DSA problems on LeetCode
+- Chess: 1100+ Elo, 3200+ puzzle rating
+- Organized a data science hackathon for 50+ students
+- District-level representation (U-18) in Chess and Badminton
+- Editorial Team & Track Coordinator, ALPHABIT Magazine — co-authored an article on AI-driven dark patterns
+- Student Placement Coordinator, Fergusson College (Jan 2026 – Present)
