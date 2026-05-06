@@ -21,12 +21,6 @@ Currently thinking about **photonic computing, transformer internals, and recomm
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=athxrvxaa&theme=tokyo-night&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=athxrvxaa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athxrvxaa&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 ## leetcode
