@@ -9,7 +9,7 @@ Currently thinking about **photonic computing, transformer internals, and recomm
 
 ## the stack
 
-![Python](https://skillicons.dev/icons?i=python,pytorch,sklearn,git,docker,github,jupyter,sql)
+![Python](https://skillicons.dev/icons?i=python,pytorch,sklearn,git,docker,github,jupyter,sql,langchain)
 
 `Python` `PyTorch` `Scikit-learn` `XGBoost` `Pandas` `NumPy` `Prophet` `Snowflake` `Streamlit` `Ollama` `HuggingFace` `Docker` `AWS` `Parquet`
 
