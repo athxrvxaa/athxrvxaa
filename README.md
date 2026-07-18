@@ -16,13 +16,13 @@ Currently building a **multi-crop NDVI lifecycle detection & classification pipe
 
 ## what I'm working on
 
-** ML Engineer Intern @ Vasundharaa Geo Technologies** *(May 2026 – Present)*
+ML Engineer Intern @ Vasundharaa Geo Technologies** *(May 2026 – Present)*
 Building an end-to-end crop lifecycle detection pipeline using Sentinel-2 NDVI time series across Maharashtra farms — peak detection, agronomic rule validation, per-crop config tuning for 20+ crops, and a Random Forest classifier (DTW shape similarity + lifecycle features) to identify crop type from NDVI growth curves alone.
 
-** Research — Photonic Attention Accelerators** *(Feb 2026 – May 2026)* · [Github]
+Research — Photonic Attention Accelerators** *(Feb 2026 – May 2026)* · [Github]
 *Softmax Degradation in Photonic Attention Accelerators: A Noise-Budget Analysis* — **Under Review, IEEE Photonics Journal**. Derived the first formally specified photon budget for photonic softmax hardware; proved an architecture-agnostic KL bound and showed ~100 photons/MAC is sufficient across transformer architectures, confirmed analytically and via Monte Carlo simulation.
 
-** H&M Personalized Fashion Recommendations** · [Github]
+H&M Personalized Fashion Recommendations** · [Github]
 End-to-end retail intelligence pipeline on 1.37M customers, 106K SKUs, 31M transactions — RFM + KMeans segmentation, XGBoost churn model (ROC-AUC 0.8477), hybrid ALS + TF-IDF/SVD recommender, and Prophet demand forecasting with A/B reactivation simulation.
 
 ---
