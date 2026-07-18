@@ -62,11 +62,16 @@ End-to-end retail intelligence pipeline on 1.37M customers, 106K SKUs, 31M trans
 
 ---
 
+
 ## find me
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/atharva-raskar-384a031b1)
-&nbsp;
-[atharvaraskar44@gmail.com](mailto:atharvaraskar44@gmail.com)
+<a href="https://www.linkedin.com/in/atharva-raskar-384a031b1">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
+
+<a href="mailto:atharvaraskar44@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail" height="50"/>
+</a>
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=athxrvxaa&label=profile+views&color=0e75b6&style=flat" />
