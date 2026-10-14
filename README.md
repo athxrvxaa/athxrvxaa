@@ -93,8 +93,11 @@ Researching the numerical reliability of softmax computations in photonic attent
 ## GitHub Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/athxrvxaa/athxrvxaa/output/github-contribution-grid-snake-dark.svg"
-       alt="GitHub Contribution Snake Animation" />
+  <img
+    src="https://raw.githubusercontent.com/athxrvxaa/athxrvxaa/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
 </p>
 
 ---
